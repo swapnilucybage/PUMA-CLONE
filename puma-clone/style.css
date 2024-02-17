@@ -1,0 +1,31 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    border: 0 !important;
+}
+
+.main-text-1{
+    background: gray;
+}
+
+.text-1{
+    font-size: 40px;
+    color: #ab3524;
+    font-weight: 500;
+}
+.text-2{
+    font-size: 20px;
+    color: #ab3524;
+    font-weight: lighter;
+}
+
+.footer-text:hover{
+    color: #fff;
+    cursor: pointer;
+}
+
+.nav-item:hover{
+    color: grey;
+    cursor: pointer;
+}
